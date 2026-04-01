@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4196a1d-0697-40c2-8606-fdf7c7c2f9ed" name="Changes" comment="" />
+    <list default="true" id="e4196a1d-0697-40c2-8606-fdf7c7c2f9ed" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +21,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../git" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -29,84 +31,85 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.10_factorial.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2_input.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3_marks_avg.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4_pass_mark.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5_for_loop.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6_even_loop.executor&quot;: &quot;Run&quot;,
-    &quot;Python.7_sum_loop.executor&quot;: &quot;Run&quot;,
-    &quot;Python.9_while_loop.executor&quot;: &quot;Run&quot;,
-    &quot;Python.add_return.executor&quot;: &quot;Run&quot;,
-    &quot;Python.all_factors_of_n.executor&quot;: &quot;Run&quot;,
-    &quot;Python.armstrong.executor&quot;: &quot;Run&quot;,
-    &quot;Python.array_list_questions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.array_peak.executor&quot;: &quot;Run&quot;,
-    &quot;Python.check_api.executor&quot;: &quot;Run&quot;,
-    &quot;Python.count_even.executor&quot;: &quot;Run&quot;,
-    &quot;Python.count_list.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.count_n_even.executor&quot;: &quot;Run&quot;,
-    &quot;Python.count_vowels (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.count_vowels(sen).executor&quot;: &quot;Run&quot;,
-    &quot;Python.count_vowels.executor&quot;: &quot;Run&quot;,
-    &quot;Python.divisibile.executor&quot;: &quot;Run&quot;,
-    &quot;Python.enter_alpha_only.executor&quot;: &quot;Run&quot;,
-    &quot;Python.factors_of_n.executor&quot;: &quot;Run&quot;,
-    &quot;Python.for_ex.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.for_string.executor&quot;: &quot;Run&quot;,
-    &quot;Python.func.executor&quot;: &quot;Run&quot;,
-    &quot;Python.func2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.func_basic.executor&quot;: &quot;Run&quot;,
-    &quot;Python.funs.executor&quot;: &quot;Run&quot;,
-    &quot;Python.greater(3)_num.executor&quot;: &quot;Run&quot;,
-    &quot;Python.greater_num.executor&quot;: &quot;Run&quot;,
-    &quot;Python.guess_num.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.hello.executor&quot;: &quot;Run&quot;,
-    &quot;Python.if else.executor&quot;: &quot;Run&quot;,
-    &quot;Python.input_func.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leap_year.executor&quot;: &quot;Run&quot;,
-    &quot;Python.list program.executor&quot;: &quot;Run&quot;,
-    &quot;Python.list_duplicates.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.max_list.executor&quot;: &quot;Run&quot;,
-    &quot;Python.merge_list.executor&quot;: &quot;Run&quot;,
-    &quot;Python.multipliers_fizz_buss.executor&quot;: &quot;Run&quot;,
-    &quot;Python.odd(list).executor&quot;: &quot;Run&quot;,
-    &quot;Python.odd_even.executor&quot;: &quot;Run&quot;,
-    &quot;Python.odd_even_func.executor&quot;: &quot;Run&quot;,
-    &quot;Python.oopdemo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.oops.executor&quot;: &quot;Run&quot;,
-    &quot;Python.opencv.executor&quot;: &quot;Run&quot;,
-    &quot;Python.palindrome (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.palindrome.executor&quot;: &quot;Run&quot;,
-    &quot;Python.palindrome_checker.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pos_neg_zero.executor&quot;: &quot;Run&quot;,
-    &quot;Python.practice1.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.practice2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.print_1_to_10.executor&quot;: &quot;Run&quot;,
-    &quot;Python.print_list.executor&quot;: &quot;Run&quot;,
-    &quot;Python.programs.executor&quot;: &quot;Run&quot;,
-    &quot;Python.replace_word(sen).executor&quot;: &quot;Run&quot;,
-    &quot;Python.reverse_string.executor&quot;: &quot;Run&quot;,
-    &quot;Python.square(list).executor&quot;: &quot;Run&quot;,
-    &quot;Python.square.executor&quot;: &quot;Run&quot;,
-    &quot;Python.star.executor&quot;: &quot;Run&quot;,
-    &quot;Python.string_len.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sum_1_to_n.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sum_list (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.swap.executor&quot;: &quot;Run&quot;,
-    &quot;Python.to_do_list.executor&quot;: &quot;Run&quot;,
-    &quot;Python.try.executor&quot;: &quot;Run&quot;,
-    &quot;Python.user.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Pycharm/PythonProject&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.10_factorial.executor": "Run",
+    "Python.2_input.executor": "Run",
+    "Python.3_marks_avg.executor": "Run",
+    "Python.4_pass_mark.executor": "Run",
+    "Python.5_for_loop.executor": "Run",
+    "Python.6_even_loop.executor": "Run",
+    "Python.7_sum_loop.executor": "Run",
+    "Python.9_while_loop.executor": "Run",
+    "Python.add_return.executor": "Run",
+    "Python.all_factors_of_n.executor": "Run",
+    "Python.armstrong.executor": "Run",
+    "Python.array_list_questions.executor": "Run",
+    "Python.array_peak.executor": "Run",
+    "Python.check_api.executor": "Run",
+    "Python.count_even.executor": "Run",
+    "Python.count_list.executor": "Debug",
+    "Python.count_n_even.executor": "Run",
+    "Python.count_vowels (1).executor": "Run",
+    "Python.count_vowels(sen).executor": "Run",
+    "Python.count_vowels.executor": "Run",
+    "Python.divisibile.executor": "Run",
+    "Python.enter_alpha_only.executor": "Run",
+    "Python.factors_of_n.executor": "Run",
+    "Python.for_ex.1.executor": "Run",
+    "Python.for_string.executor": "Run",
+    "Python.func.executor": "Run",
+    "Python.func2.executor": "Run",
+    "Python.func_basic.executor": "Run",
+    "Python.funs.executor": "Run",
+    "Python.greater(3)_num.executor": "Run",
+    "Python.greater_num.executor": "Run",
+    "Python.guess_num.executor": "Debug",
+    "Python.hello.executor": "Run",
+    "Python.if else.executor": "Run",
+    "Python.input_func.executor": "Run",
+    "Python.leap_year.executor": "Run",
+    "Python.list program.executor": "Run",
+    "Python.list_duplicates.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.max_list.executor": "Run",
+    "Python.merge_list.executor": "Run",
+    "Python.multipliers_fizz_buss.executor": "Run",
+    "Python.odd(list).executor": "Run",
+    "Python.odd_even.executor": "Run",
+    "Python.odd_even_func.executor": "Run",
+    "Python.oopdemo.executor": "Run",
+    "Python.oops.executor": "Run",
+    "Python.opencv.executor": "Run",
+    "Python.palindrome (1).executor": "Run",
+    "Python.palindrome.executor": "Run",
+    "Python.palindrome_checker.executor": "Run",
+    "Python.pos_neg_zero.executor": "Run",
+    "Python.practice1.executor": "Debug",
+    "Python.practice2.executor": "Run",
+    "Python.print_1_to_10.executor": "Run",
+    "Python.print_list.executor": "Run",
+    "Python.programs.executor": "Run",
+    "Python.replace_word(sen).executor": "Run",
+    "Python.reverse_string.executor": "Run",
+    "Python.square(list).executor": "Run",
+    "Python.square.executor": "Run",
+    "Python.star.executor": "Run",
+    "Python.string_len.executor": "Run",
+    "Python.sum_1_to_n.executor": "Run",
+    "Python.sum_list (1).executor": "Run",
+    "Python.swap.executor": "Run",
+    "Python.to_do_list.executor": "Run",
+    "Python.try.executor": "Run",
+    "Python.user.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/Pycharm/PythonProject",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Project\PythonProject\For_loop" />
