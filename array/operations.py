@@ -17,7 +17,14 @@ for j in range(0,len(arr)):
     if arr[j]==3:
         print(j)
 
-
+search=int(input("Enter the element to search:"))
+for i in range(0,len(arr)):
+    if arr[i]==search:
+        print(i)
+        break
+    else:
+        print("Element not found")
+        break
 
 
 
