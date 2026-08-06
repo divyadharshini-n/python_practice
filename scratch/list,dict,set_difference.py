@@ -20,3 +20,4 @@ print(num2)
 #SET
 
 #adding one element : add()
+#adding multiple elements
