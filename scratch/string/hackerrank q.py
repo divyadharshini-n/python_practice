@@ -1,0 +1,11 @@
+arr = []
+arr.append(6)
+arr.append(5)
+arr.append(10)
+print(arr)
+arr.replace(6,1)
+arr.append(9)
+print(arr)
+arr.pop(10)
+arr.reverse()
+print(arr)
